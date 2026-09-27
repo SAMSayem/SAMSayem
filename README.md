@@ -1,10 +1,4 @@
 
-51528.jpg
-Here is my github profile link https://github.com/SAMSayemSAMSayem
-Now you create a readme file for my this github profile according to the given instructions. 
-Email: mansursayem@gmail.com
-LinkedIn: https://www.linkedin.com/in/sayfullah-al-mansur-sayem-26b295212?utm_source=share_via&utm_content=profile&utm_medium=member_android.
-
 I created a professional GitHub Profile README.md based on the instructions in your image and the information you provided.
 
 It includes:
