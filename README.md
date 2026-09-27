@@ -1,146 +1,253 @@
-<h1 align="center">Hi 👋, I'm Sayfullah Al Mansur Sayem</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sayfullah-al-mansur-sayem-26b295212?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayfullah-al-mansur-sayem-26b295212?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
-<a href="https://fb.com/sayfullahalmansur.sayem1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayfullahalmansur.sayem1" height="30" width="40" /></a>
-</p>
+51528.jpg
+Here is my github profile link https://github.com/SAMSayemSAMSayem
+Now you create a readme file for my this github profile according to the given instructions. 
+Email: mansursayem@gmail.com
+LinkedIn: https://www.linkedin.com/in/sayfullah-al-mansur-sayem-26b295212?utm_source=share_via&utm_content=profile&utm_medium=member_android.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Library
-/
+I created a professional GitHub Profile README.md based on the instructions in your image and the information you provided.
+
+It includes:
+
+👤 Name + professional designation
+
+🖼️ Banner image
+
+📧 Email
+
+💼 LinkedIn
+
+🐙 GitHub profile
+
+👨‍💻 About Me section
+
+🌱 Current learning/activity section
+
+🛠️ Skills & technology icons
+
+📌 Two featured/pinned project sections
+
+📊 GitHub activity/stat cards
+
+📝 Repository README guidelines
+
+🔗 Project/live-demo placeholders
+
+📫 Contact section
+
+Professional but beginner-friendly presentation
+
+📥 Download your README
+Download README.md
+
+Important before uploading
+I found that the GitHub URL you provided, SAMSayemSAMSayem, currently returns a 404/not-found response from my web check. 
+
+Also, GitHub requires the profile repository name to exactly match your GitHub username, the repository to be public, and README.md to be in its root for the profile README to appear. 
+
+So if your actual username is SAMSayem rather than SAMSayemSAMSayem, change the username in the README before publishing.
+
+I also left placeholders for the second project and live-demo URLs because I don't want to invent project links that you haven't provided. 
+
+
+README.md
+Document
+
+You’re out of attachments for now. Upgrade your plan for more, or try again after 1:33 PM.
+Upgrade to Plus
+
+No file chosen
 README.md
 
 
+::: {align="center"}
 
-<div align="center">
+👋 Hi, I'm Sayfullah Al Mansur Sayem
+💻 Computer Science Student | Aspiring Software Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Sayfullah%20Al%20Mansur%20Sayem&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />{=html}
 
-Hi 👋, I'm Sayfullah Al Mansur Sayem
-Full-Stack Web Development Learner | Cybersecurity Enthusiast
-<a href="https://github.com/SAMSayem"> <img src="https://github.com/SAMSayem.png" width="150" alt="Sayfullah Al Mansur Sayem"> </a>
+<p>
+<a href="https://github.com/SAMSayemSAMSayem">{=html}
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile">{=html}
+</a>{=html} <a href="mailto:mansursayem@gmail.com">{=html}
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">{=html}
+</a>{=html}
+<a href="https://www.linkedin.com/in/sayfullah-al-mansur-sayem-26b295212">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">{=html}
+</a>{=html}
 
-<p> <a href="https://github.com/SAMSayem"> <img src="https://img.shields.io/badge/GitHub-SAMSayem-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
-
-</div>
+</p>
+:::
 
 👨‍💻 About Me
-Hello! I'm Sayfullah Al Mansur Sayem, a learner and aspiring full-stack developer from Bangladesh.
+I'm Sayfullah Al Mansur Sayem, a Computer Science student and
+aspiring software developer who enjoys learning by building practical
+projects.
 
-🌱 Currently learning and building projects with HTML, CSS, JavaScript and TypeScript
+🌱 Currently learning and improving my skills in TypeScript,
+JavaScript, HTML, CSS, PHP, MySQL, and Git/GitHub.
 
-💻 Exploring full-stack web development
+💻 Interested in web development, software engineering, databases,
+and problem solving.
 
-🔐 Interested in Cybersecurity
+🔨 I enjoy turning ideas into simple, functional projects and
+improving them step by step.
 
-🧩 Practicing problem solving and building practical projects
+🎯 My current focus is strengthening my programming fundamentals and
+building real-world projects.
 
-🚀 Interested in creating clean, useful and user-friendly web applications
+🤝 Open to learning, collaboration, and connecting with other
+developers.
 
-📚 Always learning new technologies and improving my development skills
+🚀 Currently exploring: TypeScript and modern web development
+while continuing to build practical software projects.
 
-"Learn. Build. Improve. Repeat."
+🛠️ Skills & Technologies
+🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php" alt="Web Development Skills">{=html}
 
-🛠️ Technologies & Tools
-<div align="center">
+</p>
+🗄️ Database & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,php" alt="Backend and Database Skills">{=html}
 
-Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend technologies">
+</p>
+💻 Programming & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,xcode" alt="Programming and Tools">{=html}
 
-Backend & Database
-<img src="https://skillicons.dev/icons?i=php,mysql" alt="Backend and database technologies">
+</p>
+🎨 Computer Graphics
+<p>
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++">{=html}
 
-Programming & Development Tools
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" alt="Programming and development tools">
+</p>
+C++
 
-</div>
+OpenGL / GLUT
 
-🔭 What I'm Currently Working On
-Building responsive websites with HTML & CSS
-
-Practicing JavaScript and TypeScript problem solving
-
-Learning how frontend and backend technologies work together
-
-Developing academic and personal web projects
-
-Exploring topics related to web security and cybersecurity
+Basic computer graphics programming
 
 📌 Featured Projects
-1. 🌐 DevConf 2026
-Repository: B14-A01-DevConf-2026
+Pin at least 2 repositories on your GitHub profile. Replace the
+placeholders below with the actual repository names and links of your
+two selected projects.
 
-A responsive DevConf 2026 conference website built as a web development assignment using HTML and CSS.
+1. 🚀 DevConf 2026 Website
+Repository:
+B14-A01-DevConf-2026
 
-Main technologies: HTML5, CSS3
+A responsive conference/event website project built as part of my web
+development practice.
 
-Highlights:
+Tech Stack: HTML • CSS • JavaScript
 
-Responsive navigation
+Highlights: - Responsive website layout - Structured sections and
+navigation - Contact section - Clean and beginner-friendly frontend
+implementation
 
-Hero/banner section
+Live Demo: Add your deployed project link here
 
-Speaker cards
+2. 💼 Employee Management System
+Repository: Add your GitHub repository link here
 
-Pricing section
+A database-driven employee management project designed to manage
+employees and common organizational activities.
 
-Footer and social links
+Tech Stack: PHP • MySQL • HTML • CSS • JavaScript
 
-Additional AI-assisted creative section
+Planned/Implemented Features: - Authentication - Employee
+directory - Departments - Leave management - Announcements - Training -
+Timesheet management - Organizational information
 
-2. 🧱 Dev Stack Builder
-Repository: B14-A05-DevStack
-
-A Dev Stack Builder project created for practicing modern web development concepts and JavaScript-based interactions.
-
-Main technology: JavaScript
-
-3. 🏃 FitLog
-Repository: FitLog
-
-A fitness-focused web application project for practicing application structure, components and modern JavaScript web development.
-
-Main technology: JavaScript / Next.js project structure
+Live Demo: Add your deployed project link here
 
 📊 GitHub Activity
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SAMSayemSAMSayem&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">{=html}
+<br>{=html}
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SAMSayemSAMSayem&hide_border=true" alt="GitHub Streak">{=html}
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAMSayem&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
+</p>
+🧩 What I Like Building
+🌐 Responsive websites
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMSayem&layout=compact&hide_border=true" alt="Top Languages">
+🧑‍💼 Management systems
 
-</div>
+🗄️ Database-driven applications
 
-🌐 Connect With Me
-<p align="left"> <a href="https://github.com/SAMSayem"> <img src="https://img.shields.io/badge/GitHub-SAMSayem-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> </p>
+💻 Programming and problem-solving projects
 
-<!-- Add your verified social links below. Example: <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> -->
+🎨 Computer graphics applications
 
-📍 Location & Contact
-📍 Bangladesh
+📚 Learning-focused projects that strengthen programming
+fundamentals
 
-📧 Email: YOUR_EMAIL@example.com
+📁 Repository README Checklist
+For my important/pinned repositories, I aim to keep the README clear and
+useful by including:
 
-Replace the email placeholder with your actual professional email before publishing.
+📝 A short project overview
 
-🎯 2026 Learning Goals
-Strengthen HTML & CSS fundamentals
+🖼️ Screenshots or a demo preview when available
 
-Become more confident with JavaScript
+🛠️ Main technologies used
 
-Learn TypeScript deeply
+✨ Key features
 
-Build full-stack applications
+📦 Project dependencies
 
-Improve database and backend development skills
+⚙️ Installation and setup instructions
 
-Learn more about cybersecurity
+▶️ How to run the project locally
 
-Build and document more real-world projects
+🔗 Live demo/project links when available
 
-<div align="center">
+📌 Relevant notes or limitations
 
-Thanks for visiting my profile! 👋
-⭐ Feel free to explore my repositories and follow my learning journey.
+Example Project README Structure
+# Project Name
 
-</div>
+Short overview of the project.
+
+## Screenshot
+Add project screenshot here.
+
+## Technologies
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Installation
+Explain how to install dependencies and configure the project.
+
+## Run Locally
+Explain how to start the project on a local machine.
+
+## Live Demo
+Add live project link here.
+📫 Connect With Me
+<p>
+📧 <strong>{=html}Email:</strong>{=html}
+<a href="mailto:mansursayem@gmail.com">{=html}mansursayem@gmail.com</a>{=html}<br>{=html}
+💼 <strong>{=html}LinkedIn:</strong>{=html}
+<a href="https://www.linkedin.com/in/sayfullah-al-mansur-sayem-26b295212">{=html}Sayfullah
+Al Mansur Sayem</a>{=html}<br>{=html} 🐙
+<strong>{=html}GitHub:</strong>{=html}
+<a href="https://github.com/SAMSayemSAMSayem">{=html}SAMSayemSAMSayem</a>{=html}
+
+</p>
+::: {align="center"}
+
+💡 "Learn. Build. Improve. Repeat."
+Thanks for visiting my profile! ⭐
+:::
+
