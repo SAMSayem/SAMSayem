@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/samsayemm/home](https://sites.google.com/view/samsayemm/home)
 
-- 💬 Ask me about **Dhaka,Bangladesh**
+- From: **Dhaka,Bangladesh**
 
 - 📫 How to reach me Email: **mansursayem@gmail.com**
 
