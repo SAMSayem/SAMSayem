@@ -3,11 +3,11 @@
 
 - 🔭 Recently I build [CommonGroung](https://common-round-q3fp.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/samsayemm/home](https://sites.google.com/view/samsayemm/home)
+- 👨‍💻 Here is my projects : [https://sites.google.com/view/samsayemm/home](https://sites.google.com/view/samsayemm/home)
 
 - From: **Dhaka,Bangladesh**
 
-- 📫 How to reach me Email: **mansursayem@gmail.com**
+- 📫 How to reach me: **mansursayem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
