@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sayfullah Al Mansur Sayem</h1>
-<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
+<h3 align="center">A Strenuous MERN fullstack developer from Bangladesh</h3>
+
+- 🔭 Recently I build [CommonGroung](common-round-q3fp.vercel.app)
+
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/samsayemm/home](https://sites.google.com/view/samsayemm/home)
+
+- 💬 Ask me about **Dhaka,Bangladesh**
+
+- 📫 How to reach me **mansursayem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
