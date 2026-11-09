@@ -3,8 +3,6 @@
 
 - 🔭 Recently I build [CommonGroung](https://common-round-q3fp.vercel.app/)
 
-- 👨‍💻 Here is my projects : [https://sites.google.com/view/samsayemm/home](https://sites.google.com/view/samsayemm/home)
-
 - From: **Dhaka,Bangladesh**
 
 - 📫 How to reach me: **mansursayem@gmail.com**
