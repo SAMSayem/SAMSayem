@@ -7,6 +7,8 @@
 
 - 📫 How to reach me: **mansursayem@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/samsayemm/home](https://sites.google.com/view/samsayemm/home)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
